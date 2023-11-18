@@ -3,7 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-Pyrogram==2.0.38
+Pyrogram
 requests
 tgcrypto
 yt-dlp
@@ -18,5 +18,5 @@ tldextract
 aiofiles
 pyromod
 lk21
-Flask==2.2.2
-gunicorn==20.1.0
+Flask
+gunicorn
